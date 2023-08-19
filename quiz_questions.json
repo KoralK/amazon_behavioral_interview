@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which type of questions does Amazon avoid during the interview process?",
+        "options": ["Behavioral-based questions", "Brain teasers", "Technical questions", "Leadership questions"],
+        "answers": [1]
+    },
+    {
+        "question": "What should be the focus of your answers during an Amazon interview?",
+        "options": ["Only on past experiences", "On the question asked with a well-structured response", "On future aspirations", "On personal opinions"],
+        "answers": [1]
+    },
+    {
+        "question": "When providing examples in your answers, what should you reference whenever possible?",
+        "options": ["Historical events", "Recent situations", "Hypothetical scenarios", "Other companies' experiences"],
+        "answers": [1]
+    },
+    {
+        "question": "Amazon is a ________-driven company.",
+        "options": ["Customer", "Profit", "Data", "Product"],
+        "answers": [2]
+    },
+    {
+        "question": "Behavioral-based questions often ask about ________.",
+        "options": ["Future predictions", "Hypothetical scenarios", "Past situations or challenges", "Personal preferences"],
+        "answers": [2]
+    },
+    {
+        "question": "Which of the following is an example of a behavioral-based question?",
+        "options": ["How many coding languages do you know?", "How would you handle a hypothetical situation?", "Tell me about a time you took the lead on a project.", "What is your favorite programming tool?"],
+        "answers": [2]
+    },
+    {
+        "question": "When answering questions, if applicable, you should provide examples using ________.",
+        "options": ["Opinions", "Metrics or data", "General statements", "Assumptions"],
+        "answers": [1]
+    },
+    {
+        "question": "Which of the following is NOT a recommended approach for Amazon interviews?",
+        "options": ["Using metrics in your answers", "Focusing on the question asked", "Referring to hypothetical scenarios", "Providing well-structured responses"],
+        "answers": [2]
+    },
+    {
+        "question": "What type of questions are rooted in Amazon's interviews?",
+        "options": ["Brain teasers", "Technical questions", "Behavioral-based questions", "Trivia questions"],
+        "answers": [2]
+    },
+    {
+        "question": "When discussing a past challenge, what is Amazon interested in knowing?",
+        "options": ["The name of the people involved", "The exact date of the event", "How you handled the situation", "The location of the event"],
+        "answers": [2]
+    }
+]
